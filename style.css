@@ -1,0 +1,55 @@
+body {
+  position: relative;
+
+}
+.jumbotron{
+  height: ;
+}
+.slide{
+  background-color: white;
+}
+.item img{
+  width: 1000px;
+  margin: 0 auto;
+}
+.main-content {
+  margin-top: 20px;
+  background-color:#EEEEEE;
+}
+/*.main  ul li{
+    margin-top: 20px;
+}*/
+ .tab-content  ul li{
+    /*background: url(../images/list.jpg) no-repeat;*/
+    list-style-type: none;
+    margin: 8px;
+    height: 17px;
+    line-height: 17px;
+    
+}
+.tab-content  ul li a{
+   /*color: #c00;*/
+text-decoration: none;
+font-size: 14px;
+color: #777777;
+}
+.main-pic{
+  margin-top: 20px;
+}
+.tab-content a:link,.news-list a:visited{
+    text-decoration: none;
+    color: #000;
+}
+.tab-content a:hover,.news-list a:active{
+    text-decoration: none;
+    color: #F00;
+}
+.footer{
+	background-color: #666;
+  bottom: 0;
+	border-top: 1px solid #ccc;
+	padding:20px;
+  margin-top: 20px;
+	text-align: center;
+    color:#eee;
+}
