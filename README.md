@@ -1,1 +1,1 @@
-## [预览](http://hxvin.me/xzjun2.0/index.html)
+## [预览](http://www.hxvin.me/xzjun2.0/index.html)
